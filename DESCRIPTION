@@ -7,7 +7,7 @@ Authors@R:
 Description: The package simplifies the creation and understanding of complex 
   XPath expressions, allowing users to effortlessly navigate and extract data 
   from XML and HTML documents. By providing intuitive tools and functions, it 
-  makes XPath syntax accessible and enhances productivity in data extraction tasks
+  makes XPath syntax accessible and enhances productivity in data extraction tasks.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)

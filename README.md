@@ -14,6 +14,9 @@ from XML and HTML documents. By providing intuitive tools and functions,
 it makes XPath syntax accessible and enhances productivity in data
 extraction tasks.
 
+It primarily focuses on XPath 1.0 and using it together with packages
+such as [rvest](https://rvest.tidyverse.org/).
+
 ## Installation
 
 You can install the development version of xpathr from

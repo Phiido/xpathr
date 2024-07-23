@@ -5,7 +5,7 @@
 
 <!-- badges: start -->
 
-[![R-CMD-check](https://github.com/Phiido/xpathr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Phiido/xpathr/actions/workflows/R-CMD-check.yaml)
+[![R-CMD-check](https://github.com/thoroo/xpathr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/thoroo/xpathr/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The package simplifies the creation and understanding of complex XPath
@@ -24,5 +24,5 @@ You can install the development version of xpathr from
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("Phiido/xpathr")
+devtools::install_github("thoroo/xpathr")
 ```
